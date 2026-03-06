@@ -56,7 +56,7 @@ reports/test_report.html
 
 ## 📊 Test Results
 ```
-17 passed in 174s
+17 passed
 ```
 
 ## 🏗️ Architecture — Page Object Model
